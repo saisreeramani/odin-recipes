@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1, li, a {
+    color: yellow;
+    font-family: "Copperplate", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+a {
+    font-size: 20px;
+}
